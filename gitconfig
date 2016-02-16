@@ -1,0 +1,10 @@
+[user]
+	email = andrew.kovalyoff@gmail.com
+	name = Andrew Kovalyov
+[core]
+	excludesfile = ~/.gitignore
+[branch]
+	autosetuprebase = always
+[alias]
+  ignore = update-index --assume-unchanged
+  unignore = update-index --no-assume-unchanged

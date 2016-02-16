@@ -1,0 +1,5 @@
+vendor
+cache
+auth.json
+*.phar
+composer.lock
